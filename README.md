@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sripriya32hp@gmail.com**
 
-- ⚡ Fun fact **As the lines in the code reduced for the successfully compiled code my life span and confidence in me increased its level**
+- ⚡ Fun fact **As the lines in the code reduced for the successfully compiled code my life span and confidence in me increased level**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
