@@ -28,8 +28,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sripriya-369&show_icons=true&locale=en&layout=compact" alt="sripriya-369" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sripriya-369&show_icons=true&locale=en" alt="sripriya-369" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sripriya-369&" alt="sripriya-369" /></p>
